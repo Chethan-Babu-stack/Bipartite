@@ -12,4 +12,4 @@ Applications of bipartite graphs:
 
 3. Predict movie preferences of a person.
 
-4. Stable marriage6 and other matching problems.
+4. Stable marriage and other matching problems.
